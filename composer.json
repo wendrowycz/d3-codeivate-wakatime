@@ -1,0 +1,16 @@
+{
+  "name": "wendrowycz/d3-codeivate",
+  "description": "D3 Codeivate API client",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bartosz Grzesiak",
+      "email": "bartosz.grzesiak@gmail.com"
+    }
+  ],
+  "require": {
+    "mabasic/wakatime-php-api": "dev-master",
+    "twbs/bootstrap": "3.3.x-dev"
+  }
+}
