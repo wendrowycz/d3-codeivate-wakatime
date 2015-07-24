@@ -19,9 +19,11 @@ const API_SECRET = 'your_secret_api';
 and set the correct URL in file `js/codeivate.js`
 
 ```javascript
-$.getJSON('https://codeivate.com/users/bgrzesiak.json?callback=?', function data(data){
-...
-}
+$.getJSON('https://codeivate.com/users/bgrzesiak.json?callback=?', 
+      function data(data){
+      ...
+    });
+    
 ```
 
 **and enjoy :)**
